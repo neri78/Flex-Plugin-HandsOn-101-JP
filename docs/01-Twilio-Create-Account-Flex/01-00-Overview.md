@@ -15,4 +15,4 @@ Twilioが提供するサービスを利用するためにはアカウントの�
 
 ## 次のハンズオン
 
-[ハンズオン: メッセージ（SMS/MMS）の利用](../02-Twilio-SMS/02-00-Overview.md)
+Comming Soon!
