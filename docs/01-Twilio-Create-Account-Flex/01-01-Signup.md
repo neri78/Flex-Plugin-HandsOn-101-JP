@@ -1,6 +1,6 @@
 #  手順1: Twilioアカウントの作成
 ## はじめに
-この手順では、Twilioアカウントを作成します。既にアカウントを作成し、コンソールにアクセスできている場合は、[手順2](./01-02-PurchasePhoneNumber.md)へ進んでください。
+この手順では、Twilioアカウントを作成します。既にアカウントを作成し、コンソールにアクセスできている場合は、[手順2](./01-02-CreateFlexProject.md)へ進んでください。
 ## 1-1. アカウントの作成を開始
 [Twilioホームページ](https://www.twilio.com/)をブラウザーで開き、[Sign Up](https://www.twilio.com/try-twilio) をクリックします。
 
