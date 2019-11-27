@@ -19,7 +19,7 @@ Twilio Flexのドキュメントにはプラグインで[カスタマイズ可�
 |NoTasksHintNotAvailable|エージェントがオフラインの際に表示されるヒント文|ステータスを対応可能に変更すると、タスクを担当できます。|
 |NoTasksHintAvailable|エージェントが対応可能（Available）状態の際に表示されるヒント文|タスクを担当できます。|
 
-文字列をカスタマイズする場合は、__GettingStartedPlugin.js__ を開き、__init__ メソッドで、引数として渡される __manager__ の __string__ をオーバーライドします。
+文字列をカスタマイズする場合は、__プラグイン名+Plugin.js__ と名前がついたファイル（今回は __GettingStartedPlugin.js__ となります。このハンズオンではこのファイル名を説明の中で使用しています。）を開き、__init__ メソッドで、引数として渡される __manager__ の __string__ をオーバーライドします。
 
 ```js
   init(flex, manager) {
