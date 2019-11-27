@@ -12,7 +12,7 @@ flex.twilio.com をブラウザーで開きます。サインイン画面が表�
 
 この画面には、Flexプラグインを開発するための環境情報が記載されています。インストールされているバージョンによって必要環境は異なりますが、今回のスクリーンショットでは、__node 8.10.0以降__、__npm 6.1.0以降__ が必要であることがわかります。
 
-![Flex開発環境画面](../assets/02-Developer-setup.png "Flex開発環境画面")
+![Flex開発環境画面](../assets/02-Developer-Setup.png "Flex開発環境画面")
 
 次にターミナルを開き、下記のコマンドでCLIツールのインストールと、プラグイン用のプロジェクトを作成します。__plugin-__ から名前が始まる必要があります。その後は任意の名前に置き換えてください。
 ```
@@ -21,7 +21,7 @@ npm init flex-plugin plugin-プラグイン名
 
 プラグインの作成中に __AccountSid__ の入力を求められた場合は、同じ画面から確認することができます。
 
-![Flex開発環境画面 - AccountSid](../assets/02-Developer-setup-AccountSid.png "Flex開発環境画面 - AccountSid")
+![Flex開発環境画面 - AccountSid](../assets/02-Developer-Setup-AccountSid.png "Flex開発環境画面 - AccountSid")
 
 正しく作成が完了できていれば下記のようにターミナルに表示されます。
 
